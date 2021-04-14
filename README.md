@@ -1,4 +1,4 @@
-[![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc)](https://github.com/mrbrenio/simplesIMC/blob/main/LICENSE) [![imc](https://img.shields.io/badge/MrBrenio-todo-brightgreen)](https://github.com/MrBrenio/todo-list/deployments/activity_log?environment=github-pages)
+[![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc)](https://github.com/MrBrenio/todo-list/blob/main/LICENSE) [![imc](https://img.shields.io/badge/MrBrenio-todo-brightgreen)](https://github.com/MrBrenio/todo-list/deployments/activity_log?environment=github-pages)
 
 # To Do List 
 > 🧾 Lista de a fazeres 
