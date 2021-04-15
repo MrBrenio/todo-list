@@ -1,6 +1,6 @@
 [![license mit](https://img.shields.io/github/license/mrbrenio/simplesimc)](https://github.com/MrBrenio/todo-list/blob/main/LICENSE) [![imc](https://img.shields.io/badge/MrBrenio-todo-brightgreen)](https://mrbrenio.github.io/todo-list/)
 
-# To Do List 
+# ToDo List 
 > 🧾 Lista de a fazeres 
 
 Uma listinha de a fazeres para se programar e não esquecer as tarefas que você poderá planejar e realizar.
